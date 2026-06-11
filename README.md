@@ -6,6 +6,8 @@ My name is Boss96, I am from Aus
 
 The goal is to learn bit by bit everyday because life is limited
 
+- I have created this README summary to keep my self accountable and always comeback to this page whenever I feel unmotivated.  
+
 <!--
 **Boss96/Boss96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

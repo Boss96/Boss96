@@ -1,11 +1,17 @@
 ## Hi there 👋
 
+My name is Boss96, I am from Aus
+
+- 🌱 I’m currently learning [Learn to Cloud](/https://learntocloud.guide/)
+
+The goal is to learn bit by bit everyday because life is limited
+
 <!--
 **Boss96/Boss96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
